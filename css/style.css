@@ -88,10 +88,10 @@ h1 {
 .navbar-default .navbar-nav > .active > a:hover {
   background: transparent;
   color: #fff;
-  border-top: 6px solid #1ab394;
+  border-top: 6px solid #222424;
 }
 .navbar-default .navbar-nav > li > a:hover {
-  color: #1ab394;
+  color: #222424;
 }
 .navbar-default .navbar-nav > .active > a:focus {
   background: transparent;
@@ -103,7 +103,7 @@ h1 {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  background: #17a185;
+  background: #222424;
   color: #fff;
 }
 .navbar-default .navbar-brand {
@@ -111,7 +111,7 @@ h1 {
   height: auto;
   display: block;
   font-size: 14px;
-  background: #1ab394;
+  background: #222424;
   padding: 15px 20px 15px 20px;
   border-radius: 0 0px 5px 5px;
   font-weight: 700;
@@ -121,7 +121,7 @@ h1 {
   color: #676a6c;
 }
 .navbar-scroll.navbar-default .nav li a:hover {
-  color: #1ab394;
+  color: #d40000;
 }
 .navbar-wrapper .navbar.navbar-scroll {
   padding-top: 0;
